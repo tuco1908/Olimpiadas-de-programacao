@@ -11,6 +11,15 @@ vetor, mas como o númerosendo correspondente a
 number = quantidade total de elementos do array. Podemos ir diminuindo até ficar menor que o step, os elementos que 
 sobrarem serão os que vão ser printados. 
 step = inteiro, que somado ao ínidice de um elemento do array resulta no próximo elemento a ser retirado do array. 
-
-
 */
+
+#include <vector>
+
+using namespace std;
+
+int remaning(int n, int k, vector<int>arr){
+    if (n == 1) {
+        return arr[n];
+    }
+    
+}

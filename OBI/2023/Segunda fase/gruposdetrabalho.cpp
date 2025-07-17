@@ -1,6 +1,8 @@
 #include <iostream>
 #include <algorithm>
 
+//not solved yet
+
 using namespace std;
 
 void maior(int &e1, int &e2){

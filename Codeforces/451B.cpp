@@ -1,6 +1,8 @@
 #include <iostream>
 #include <algorithm>
 
+//not solved yet
+
 using namespace std;
 
 bool eq(int n, long long a[], long long cop[]){
